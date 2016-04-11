@@ -6,11 +6,16 @@ This library is developed to allow unit tests to test private/protected methods 
 Install
 -------
 
+Use shell:
+```
+composer require testinaweb/php-access-all
+```
+
 Use through composer.json:
 ```json
 {
   "require": {
-    "testinaweb/php-access-all": "dev-master"
+    "testinaweb/php-access-all": "~0.1.0"
   }
 }
 ```
